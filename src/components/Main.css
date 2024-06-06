@@ -15,7 +15,7 @@
 }
 
 .video-tile {
-    background-color: #3c4043;
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: center;
@@ -33,7 +33,6 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.5);
 }
 
 .student-photo{
@@ -48,4 +47,11 @@
     position: left;
     position: absolute;
     margin-top: 170px;
+}
+.mic{
+    position: right;
+    position: absolute;
+   margin-left: 290px;
+   margin-bottom: 130px;
+    width: 40px;
 }
